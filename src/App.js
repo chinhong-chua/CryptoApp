@@ -36,9 +36,9 @@ const App = () => {
             level={5}
             style={{ color: "white", textAlign: "center" }}
           >
-            Cryptoverse
+            Crypto App
             <br />
-            All rights reserved
+            All rights reserved by Chin Hong
           </Typography.Title>
           <Space>
             <Link to="/">Home</Link>

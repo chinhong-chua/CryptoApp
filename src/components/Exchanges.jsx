@@ -25,7 +25,7 @@ const Exchanges = () => {
   );
   if (isFetching) return <Loader />;
 
-  console.log(exchangesData);
+  // console.log(exchangesData);
   // console.log("exchangesData: ", exchangesData);
   // {
   //   pollingInterval: 3000,
